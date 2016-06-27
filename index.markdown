@@ -13,4 +13,6 @@ layout: default
 
 + Git-it : Learn Git and GitHub basics - par Jessica Lord / nodeschool.io : [atelier](https://github.com/jlord/git-it)
 
+## Utiliser Git, c'est bien. Bien l'utiliser, c'est mieux.
+
 + Git++ : Passez au niveau supérieur de la gestion de version - par Cyril Lakech et Hubert Sablonniere : [vidéo (48'38")](https://www.youtube.com/watch?v=rt-9mPaYtKo) - [vidéo courte (30'51")](https://www.youtube.com/watch?v=m0_C2cfM9IM) - [diapo](http://webadeo.github.io/git-simpler-better-faster-stronger/#1.0)
