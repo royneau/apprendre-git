@@ -23,3 +23,5 @@ layout: default
   + [diapo BLEND Web Mix 2014](http://delicious-insights.com/talks/blend2014-git-protips/)
   + [diapo Devoxx France 2016](http://tdd.github.io/devoxx-git-protips/)
   + [diapo Kiwi Party 2016 (version courte)](http://tdd.github.io/kiwiparty-git-protips/)
+
++ Collaboration Best Practices with Git & GitHub - par Christophe Porteneuve : [vidéo (FR - 21'09")](https://www.youtube.com/watch?v=HHE19hKsrW4) - [pdf (EN - 2,8 Mo)](http://delicious-insights.com/git-github-collab-bp.pdf)
