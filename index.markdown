@@ -17,8 +17,8 @@ layout: default
 
 + Git++ : Passez au niveau supérieur de la gestion de version - par Cyril Lakech et Hubert Sablonniere : [vidéo (48'38")](https://www.youtube.com/watch?v=rt-9mPaYtKo) - [vidéo courte (30'51")](https://www.youtube.com/watch?v=m0_C2cfM9IM) - [diapo](http://webadeo.github.io/git-simpler-better-faster-stronger/#1.0)
 
-+ Git ProTips : Faire du git plus vite et mieux - par Christophe Porteneuve : 
-  + BLEND Web Mix 2014 : [vidéo (59'06")](https://www.youtube.com/watch?v=ypR-rEBCoag) - [diapo](http://delicious-insights.com/talks/blend2014-git-protips/)
++ Git ProTips : Faire du git plus vite et mieux - par Christophe Porteneuve :
+  + BLEND Web Mix 2014 : [vidéo (59'06")](https://www.youtube.com/watch?v=ypR-rEBCoag) - [diapo](http://drive.delicious-insights.com/legacy-files/talks/blend2014-git-protips/)
   + France HTML5 2014 : [vidéo (49'45")](https://www.youtube.com/watch?v=OMg7LfSuSUU)
   + Devoxx France 2016 : [diapo](http://tdd.github.io/devoxx-git-protips/)
   + Kiwi Party 2016 : [vidéo (28'22")](https://vimeo.com/179446529) - [diapo](http://tdd.github.io/kiwiparty-git-protips/)
